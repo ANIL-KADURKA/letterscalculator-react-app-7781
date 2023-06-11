@@ -1,0 +1,59 @@
+/* Write your code here. */
+.letters-app {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: burlywood;
+}
+.cl {
+  display: flex;
+  flex-direction: row;
+}
+.Card1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-right: 30px;
+  height: 400px;
+  margin: 30px;
+}
+.Card2 {
+  margin-left: 20px;
+  padding: 10px;
+}
+.image-icon {
+  height: 300px;
+  width: 300px;
+}
+.button {
+  height: 39px;
+  width: 150px;
+  background-color: antiquewhite;
+  color: red;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: inset;
+  outline: none;
+  margin: 50px;
+}
+.head1 {
+  color: chartreuse;
+  font-size: 28px;
+  font-weight: 600;
+}
+.inputElement {
+  height: 40px;
+  width: 280px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: aliceblue;
+  border: none;
+  margin: 30px;
+}
